@@ -1,0 +1,166 @@
+{
+	"E1": {
+		"menu": [
+			[	"3", "board_info.PIN3"],
+			[	"5", "board_info.PIN5"],
+			[	"6", "board_info.PIN6"],
+			[	"9", "board_info.PIN9"],
+			[	"10", "board_info.PIN10"],
+			[	"11", "board_info.PIN11"],
+			[	"A0", "board_info.PINA0"],
+			[	"A1", "board_info.PINA1"],
+			[	"A2", "board_info.PINA2"],
+			[	"A3", "board_info.PINA3"],
+			[	"A4", "board_info.PINA4"],
+			[	"A5", "board_info.PINA5"]
+		],
+		"default_DRI0039": "3"
+	},
+	"M1": {
+		"menu": [
+			[	"4", "board_info.PIN4"],
+			[	"2", "board_info.PIN2"],
+			[	"3", "board_info.PIN3"],
+			[	"5", "board_info.PIN5"],
+			[	"6", "board_info.PIN6"],
+			[	"7", "board_info.PIN7"],
+			[	"8", "board_info.PIN8"],
+			[	"9", "board_info.PIN9"],
+			[	"10", "board_info.PIN10"],
+			[	"11", "board_info.PIN11"],
+			[	"12", "board_info.PIN12"],
+			[	"13", "board_info.PIN13"]
+		],
+		"default_DRI0039": "4"
+	},
+	"FR": {
+		"menu": [
+			[	"CW", "1"],
+			[	"CCW", "2"]
+		],
+		"default_DRI00391": "CW"
+	},
+	"E2": {
+		"menu": [
+			[	"11", "board_info.PIN11"],
+			[	"3", "board_info.PIN3"],
+			[	"5", "board_info.PIN5"],
+			[	"6", "board_info.PIN6"],
+			[	"9", "board_info.PIN9"],
+			[	"10", "board_info.PIN10"],			
+			[	"A0", "board_info.PINA0"],
+			[	"A1", "board_info.PINA1"],
+			[	"A2", "board_info.PINA2"],
+			[	"A3", "board_info.PINA3"],
+			[	"A4", "board_info.PINA4"],
+			[	"A5", "board_info.PINA5"]
+		],
+		"default_DRI0039": "11"
+	},
+	"M2": {
+		"menu": [
+			[	"12", "board_info.PIN12"],
+			[	"2", "board_info.PIN2"],
+			[	"3", "board_info.PIN3"],
+			[	"4", "board_info.PIN4"],
+			[	"5", "board_info.PIN5"],
+			[	"6", "board_info.PIN6"],
+			[	"7", "board_info.PIN7"],
+			[	"8", "board_info.PIN8"],
+			[	"9", "board_info.PIN9"],
+			[	"10", "board_info.PIN10"],
+			[	"11", "board_info.PIN11"],			
+			[	"13", "board_info.PIN13"]
+		],
+		"default_DRI0039": "12"
+	},
+	"E3": {
+		"menu": [
+			[	"5", "board_info.PIN5"],
+			[	"3", "board_info.PIN3"],			
+			[	"6", "board_info.PIN6"],
+			[	"9", "board_info.PIN9"],
+			[	"10", "board_info.PIN10"],
+			[	"11", "board_info.PIN11"],
+			[	"A0", "board_info.PINA0"],
+			[	"A1", "board_info.PINA1"],
+			[	"A2", "board_info.PINA2"],
+			[	"A3", "board_info.PINA3"],
+			[	"A4", "board_info.PINA4"],
+			[	"A5", "board_info.PINA5"]
+		],
+		"default_DRI0039": "5"
+	},
+	"M3": {
+		"menu": [
+			[	"8", "board_info.PIN8"],
+			[	"2", "board_info.PIN2"],
+			[	"3", "board_info.PIN3"],
+			[	"4", "board_info.PIN4"],
+			[	"5", "board_info.PIN5"],
+			[	"6", "board_info.PIN6"],
+			[	"7", "board_info.PIN7"],
+			[	"9", "board_info.PIN9"],
+			[	"10", "board_info.PIN10"],
+			[	"11", "board_info.PIN11"],
+			[	"12", "board_info.PIN12"],
+			[	"13", "board_info.PIN13"]
+		],
+		"default_DRI0039": "8"
+	},
+	"E4": {
+		"menu": [
+			[	"6", "board_info.PIN6"],
+			[	"3", "board_info.PIN3"],
+			[	"5", "board_info.PIN5"],
+			[	"9", "board_info.PIN9"],
+			[	"10", "board_info.PIN10"],
+			[	"11", "board_info.PIN11"],
+			[	"A0", "board_info.PINA0"],
+			[	"A1", "board_info.PINA1"],
+			[	"A2", "board_info.PINA2"],
+			[	"A3", "board_info.PINA3"],
+			[	"A4", "board_info.PINA4"],
+			[	"A5", "board_info.PINA5"]
+		],
+		"default_DRI0039": "6"
+	},
+	"M4": {
+		"menu": [
+			[	"7", "board_info.PIN7"],
+			[	"2", "board_info.PIN2"],
+			[	"3", "board_info.PIN3"],
+			[	"4", "board_info.PIN4"],
+			[	"5", "board_info.PIN5"],
+			[	"6", "board_info.PIN6"],
+			[	"8", "board_info.PIN8"],
+			[	"9", "board_info.PIN9"],
+			[	"10", "board_info.PIN10"],
+			[	"11", "board_info.PIN11"],
+			[	"12", "board_info.PIN12"],
+			[	"13", "board_info.PIN13"]
+		],
+		"default_DRI0039": "7"
+	},
+	"MOTOR": {
+		"menu": [
+			[
+				"M1",
+				"1"
+			],
+			[
+				"M2",
+				"2"
+			],
+			[
+				"M3",
+				"3"
+			],
+			[
+				"M4",
+				"4"
+			]
+		],
+		"default_DRI0039": "M1"
+	}
+}

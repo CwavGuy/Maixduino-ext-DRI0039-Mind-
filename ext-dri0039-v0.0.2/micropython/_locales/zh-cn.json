@@ -1,0 +1,15 @@
+{
+    "EXT_DRI0039.DRI0039Init|block": "初始化马达驱动模块的马达1速度脚为[E1]马达1方向脚为[M1]马达2速度脚为[E2]马达2方向脚为[M2]马达3速度脚为[E3]马达3方向脚为[M3]马达4速度脚为[E4]马达4方向脚为[M4]" ,
+    "EXT_DRI0039.DRI0039Init1|block": "马达驱动模块的[MOTOR]以[SPEED]速度[FR]" ,
+    "EXT_DRI0039.DRI0039Init2|block": "马达驱动模块的[MOTOR]停止", 
+    "EXT_DRI0039.DRI0039Init3|block": "释放马达驱动模块系统资源", 
+
+    
+    "EXT_DRI0039.FR.CW|menu": "正转" , 
+    "EXT_DRI0039.FR.CCW|menu": "反转" ,
+    
+    "EXT_DRI0039.MOTOR.M1|menu": "马达1" ,
+    "EXT_DRI0039.MOTOR.M2|menu": "马达2" ,
+    "EXT_DRI0039.MOTOR.M3|menu": "马达3" ,
+    "EXT_DRI0039.MOTOR.M4|menu": "马达4"
+    }

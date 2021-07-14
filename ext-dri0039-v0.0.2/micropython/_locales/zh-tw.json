@@ -1,0 +1,14 @@
+{
+    "EXT_DRI0039.DRI0039Init|block": "初始化電機驅動模組的電機1速度脚為[E1]電機1方向脚為[M1]電機2速度脚為[E2]電機2方向脚為[M2]電機3速度脚為[E3]電機3方向脚為[M3]電機4速度脚為[E4]電機4方向脚為[M4]" ,
+    "EXT_DRI0039.DRI0039Init1|block": "電機驅動模組的[MOTOR]以[SPEED]速度[FR]" ,
+    "EXT_DRI0039.DRI0039Init2|block": "電機驅動模組的[MOTOR]停止運作", 
+    "EXT_DRI0039.DRI0039Init3|block": "移除電機驅動模組系統資源", 
+    
+    "EXT_DRI0039.FR.CW|menu": "順時針轉",
+    "EXT_DRI0039.FR.CCW|menu": "逆時針轉" ,
+    
+    "EXT_DRI0039.MOTOR.M1|menu": "電機1" ,
+    "EXT_DRI0039.MOTOR.M2|menu": "電機2" ,
+    "EXT_DRI0039.MOTOR.M3|menu": "電機3" ,
+    "EXT_DRI0039.MOTOR.M4|menu": "電機4"
+}

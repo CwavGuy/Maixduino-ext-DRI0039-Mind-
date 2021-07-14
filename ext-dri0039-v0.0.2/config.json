@@ -1,0 +1,32 @@
+{
+	"name": {
+		"zh-cn": "ext-DRI0039",
+		"en": "ext-DRI0039"
+	},
+	"description": {
+		"zh-cn": "基于两块TB6612FNG的四路直流电机驱动扩展板",
+		"en": "Motor driver shield includes two TB6612FNG motor driver chips"
+	},
+	"author": "cwavguy",
+	"email": "cityu1638241@gmail.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "dri0039",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.2",
+	"asset": { 	
+		"micropython": {
+			"dir": "micropython/",
+			"version": "0.0.2",
+			"board": ["maixduino"],
+			"main": "main.ts",
+			"files": [
+				"_images/icon.svg",
+				"_locales/zh-cn.json",
+				"_locales/zh-tw.json",
+				"_menus/maixduino.json",
+				"libraries/dri0039.py"
+			  ]
+		}
+	}
+}
