@@ -41,8 +41,12 @@ MIT
 
 MCU                | JavaScript    | Arduino   | MicroPython    | Remarks
 ------------------ | :----------: | :----------: | :---------: | -----
-Maixduino        |             |              |       √      | Maixduino
+Maixduino        |             |              |       √      | Mind+ ext-lib
 
 
 ## Release Logs
-* V0.0.1  Basic functions completed.
+* V0.0.1  Basic functions completed. (unable now)
+* V0.0.2  Supporting official Maixpy firmwares from Sipeed 
+**	independent on module "pin" in Mind+'s Firmwares
+**	fixed the bug which from the wrong pin mapping in mind+ that cannot control direction of M4 
+{"mode":"full","isActive":false}
