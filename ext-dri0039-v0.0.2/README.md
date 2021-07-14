@@ -1,4 +1,4 @@
-# DRI0039 QUAD MOTORS DRIVER
+# MAIXDUINO LIBRARY FOR DFROBOT DRI0039 QUAD MOTORS DRIVER 
 
 
 ![](./micropython/_images/featured.png)
@@ -14,16 +14,14 @@
 * [Supported targets](#Supportedtargets)
 
 ## URL
-* Project URL : ```https://github.com/DFRobot/ext-oled12864```
+* Project URL : ```https://github.com/CwavGuy/Maixduino-ext-DRI0039-Mindplus```
 
 * Tutorial URL : ```https://mindplus.dfrobot.com.cn/extensions-user```
 
 * Get a purchase connection: [store](https://www.dfrobot.com/).
 
 ## Summary
-Support different drawings in the screen, including point, line, circle, rectangle, triangle,rounded rectangle and some commands.
-Support English characters and character library chips of DFRobot modules.
-IIC: the redraw rate is more than 30 frames per second when redrawed by ESP series controllers
+Mind+ extension library for supporting DFROBOT SKU-DRI0039 module on maixduino platform.
 
 ## Blocks
 
@@ -43,9 +41,12 @@ MIT
 
 MCU                | JavaScript    | Arduino   | MicroPython    | Remarks
 ------------------ | :----------: | :----------: | :---------: | -----
-mpython        |             |              |       √      | Maixduino
+Maixduino        |             |              |       √      | Mind+ ext-lib
 
 
 ## Release Logs
-* V0.0.1  Basic functions completed.
-* V0.0.2  Revised according to V1.6.2 RC2.0
+* V0.0.1  Basic functions completed. (unable now)
+* V0.0.2  Supporting official Maixpy firmwares from Sipeed 
+**	independent on module "pin" in Mind+'s Firmwares
+**	fixed the bug which from the wrong pin mapping in mind+ that cannot control direction of M4 
+{"mode":"full","isActive":false}
