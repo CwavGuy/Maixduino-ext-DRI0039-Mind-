@@ -1,7 +1,7 @@
 # MAIXDUINO LIBRARY FOR DFROBOT DRI0039 QUAD MOTORS DRIVER 
 
 
-![](./micropython/_images/featured.png)
+![](./ext-dri0039-v0.0.2/micropython/_images/featured.png)
 
 ---------------------------------------------------------
 
@@ -47,6 +47,5 @@ Maixduino        |             |              |       √      | Mind+ ext-lib
 ## Release Logs
 * V0.0.1  Basic functions completed. (unable now)
 * V0.0.2  Supporting official Maixpy firmwares from Sipeed 
-**	independent on module "pin" in Mind+'s Firmwares
-**	fixed the bug which from the wrong pin mapping in mind+ that cannot control direction of M4 
-{"mode":"full","isActive":false}
+*	independent on module "pin" in Mind+'s Firmware
+*	fixed the bug which from the wrong pin mapping in mind+ that cannot control direction of M4 
