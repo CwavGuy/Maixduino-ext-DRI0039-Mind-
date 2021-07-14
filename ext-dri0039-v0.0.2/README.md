@@ -49,4 +49,3 @@ Maixduino        |             |              |       √      | Mind+ ext-lib
 * V0.0.2  Supporting official Maixpy firmwares from Sipeed 
 *	independent on module "pin" in Mind+'s Firmware
 *	fixed the bug which from the wrong pin mapping in mind+ that cannot control direction of M4 
-{"mode":"full","isActive":false}
